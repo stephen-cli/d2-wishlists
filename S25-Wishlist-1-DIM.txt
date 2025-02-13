@@ -1,6 +1,22 @@
 title:Ratchet's Wishlist
 description:Weapons I am looking for
 
+// VS Gravitic Arrest - Datto Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=93061497&perks=3523296417,2396489472
+dimwishlist:item=93061497&perks=3523296417,598607952
+dimwishlist:item=93061497&perks=1906147653,2396489472
+dimwishlist:item=93061497&perks=1906147653,598607952
+
+
+// VS Gravitic Arrest - Datto Roll (pve)
+//notes: tags:pve
+dimwishlist:item=93061497&perks=776531651,2396489472
+dimwishlist:item=93061497&perks=776531651,598607952
+dimwishlist:item=93061497&perks=2541826827,2396489472
+dimwishlist:item=93061497&perks=2541826827,598607952
+
+
 // Joxer's Longsword - Aegis Roll (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=157601190&perks=776531651,2048641572
@@ -403,6 +419,30 @@ dimwishlist:item=1757177186&perks=2308090567,557221067
 dimwishlist:item=1757177186&perks=2308090567,2896748467
 dimwishlist:item=1757177186&perks=2308090567,3218042543
 dimwishlist:item=1757177186&perks=2308090567,2633604463
+
+
+// VS Velocity Baton - Datto Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3523296417,984655331
+dimwishlist:item=1762785663&perks=1906147653,243981275
+dimwishlist:item=1762785663&perks=1906147653,984655331
+
+
+// VS Velocity Baton - Datto Roll (pve)
+//notes: tags:pve
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=776531651,984655331
+dimwishlist:item=1762785663&perks=2541826827,243981275
+dimwishlist:item=1762785663&perks=2541826827,984655331
+
+
+// VS Velocity Baton - Datto Roll (pve)
+//notes: tags:pve
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=776531651,1926441324
+dimwishlist:item=1762785663&perks=2541826827,2048641572
+dimwishlist:item=1762785663&perks=2541826827,1926441324
 
 
 // Afterlight - Datto Roll (pve,god-pve)
@@ -1663,5 +1703,13 @@ dimwishlist:item=4221591387&perks=4085959009,1089671869
 dimwishlist:item=4221591387&perks=4085959009,496047945
 dimwishlist:item=4221591387&perks=4085959009,3708227201
 dimwishlist:item=4221591387&perks=4085959009,781192741
+
+
+// VS Pyroelectric Propellant - Datto Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4232480042&perks=880644845,3966416502
+dimwishlist:item=4232480042&perks=880644845,717070634
+dimwishlist:item=4232480042&perks=3120212825,3966416502
+dimwishlist:item=4232480042&perks=3120212825,717070634
 
 
